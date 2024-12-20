@@ -1,6 +1,6 @@
 [package]
 name = "bos-cli"
-version = "0.3.19"
+version = "0.3.20"
 authors = ["FroVolod <frol_off@meta.ua>", "frol <frolvlad@gmail.com>"]
 license = "MIT OR Apache-2.0"
 edition = "2021"
