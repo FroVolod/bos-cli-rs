@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.20](https://github.com/bos-cli-rs/bos-cli-rs/compare/v0.3.19...v0.3.20) - 2024-12-20
+
+### Other
+
+- restored to default dist workflow config (#107)
+
 ## [0.3.19](https://github.com/bos-cli-rs/bos-cli-rs/compare/v0.3.18...v0.3.19) - 2024-12-19
 
 ### Other
